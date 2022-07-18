@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584088249853",
+    "project_id": "movie-ticket-a6d08",
+    "storage_bucket": "movie-ticket-a6d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584088249853:android:7d42752233ca8b94272594",
+        "android_client_info": {
+          "package_name": "com.example.move_ticketing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584088249853-tv9td9ickasmghglrmai8pave7g4b0vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0WvTasLRk0BBhSqq_SGvl4VEFr6509s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584088249853-tv9td9ickasmghglrmai8pave7g4b0vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
